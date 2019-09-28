@@ -1,0 +1,9 @@
+Key
+AB CD AB CD AB CD AB CD AB CD AB CD 12 34 56 78
+
+JungBoBoHo Gazua
+4a 75 6e 67 42 6f 42 6f 48 6f 20 47 61 7a 75 61
+
+
+Text after encryption:
+26 26 1d 7c 5f 83 09 a7 95 9e 00 97 05 60 a8 d3 
